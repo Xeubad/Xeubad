@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Xeubad/Xeubad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="title" align=center>
 
-Here are some ideas to get you started:
+![Modern C++ template][github-sub-title:img]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Oh Hello Eveyone](https://github-readme-stats.vercel.app/api?username=Xeubad&show_icons=true&theme=tokyonight)](https://space.bilibili.com/416116657)
+
+[![CSDN(https://img.shields.io/badge/CSDN-%E7%B4%94%E5%86%AB-green)](https://blog.csdn.net/xpled)
+[![Gitee](https://img.shields.io/badge/Gitee-Xeubad-red)](https://gitee.com/ah-chen)
+
+[![DevOps](https://img.shields.io/badge/code-DevOps-blue)](https://learn.microsoft.com/zh-cn/devops/) 
+![](https://img.shields.io/badge/每日-美式-green) 
+![](https://img.shields.io/badge/状态-error-red) 
+![](https://img.shields.io/badge/性格-男-red)
+
+</div>
+
+![头像](image/头像.jpg)
+
+![Visitor Count](https://profile-counter.glitch.me/Xeubad/count.svg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Xeubad
