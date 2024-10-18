@@ -5,7 +5,7 @@
 
 [![Oh Hello Eveyone](https://github-readme-stats.vercel.app/api?username=Xeubad&show_icons=true&theme=tokyonight)](https://space.bilibili.com/416116657)
 
-[![CSDN(https://img.shields.io/badge/CSDN-%E7%B4%94%E5%86%AB-green)](https://blog.csdn.net/xpled)
+[![CSDN](https://img.shields.io/badge/CSDN-%E7%B4%94%E5%86%AB-green)](https://blog.csdn.net/xpled)
 [![Gitee](https://img.shields.io/badge/Gitee-Xeubad-red)](https://gitee.com/ah-chen)
 
 [![DevOps](https://img.shields.io/badge/code-DevOps-blue)](https://learn.microsoft.com/zh-cn/devops/) 
